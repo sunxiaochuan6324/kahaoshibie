@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60d0ee86-bc85-447d-8ebf-e7a7c33f073e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Scripts/jquery-1.4.1-vsdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Scripts/jquery-1.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Scripts/jquery-1.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Scripts/jquery.base64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Scripts/jquery.blockUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Scripts/ui/jquery.ui.core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Scripts/ui/jquery.ui.datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/Append.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/Append_1_d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/Brows.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/Edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/Edit_1_d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/Find.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/Find_1_d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/ui/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/ui/images/ui-icons_217bc0_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/ui/images/ui-icons_d8e7f3_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/ui/jquery.ui.core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/ui/jquery.ui.datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/Styles/ui/jquery.ui.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/commons-beanutils-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/commons-collections.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/commons-io-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/commons-lang.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/ezmorph.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/json-lib-2.2.2-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/mysql-connector-java-5.1.17-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/initxianlu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/mdpiao.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/mgadmin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/mgcusinfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/mgpiao.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/mgtraininfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/mgxianlu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/mgzhandian.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/admin/mtflag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/changePwd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/CoolBlue/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/CoolBlue/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/CoolBlue/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/CoolBlue/TBHandle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/CoolBlue/ToolbarBg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/CoolBlue/ToolbarLeft.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/CoolBlue/ToolbarRight.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/Office/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/Office/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/Office/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/Office3D/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/Office3D/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/Office3D/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/blue/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/blue/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/blue/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/dtree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/green/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/green/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/green/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/jquery.ui.core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/jquery.ui.datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/jquery.ui.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/light/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/light/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/light/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/mx/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/mx/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/mx/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/mytable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/red/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/red/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/red/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/reg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/topa.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/yellow/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/yellow/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/css/yellow/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/customer/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/-.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/-3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/ADD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/BROWSE.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/CHART.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/Chart01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/Chart02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/DEFAULT.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/DIARY.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/DOWNLOAD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/E.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/EDIT.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/EMAIL.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/FILE.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/FORMADD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/FORMEDIT.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/FORMQUERY.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/IE (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/IE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/IE3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/MAP.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/MENU.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/NOTICE.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/OTHER.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/P.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/PASSWORD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/PDF.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/PICTURE.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/PLAN.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/QUERY.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/RIGHTS.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/SECTOR.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/TXT.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/USER.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/W.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/ZIP.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/accept.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/back_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/back_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/back_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/bar2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/bd-1set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_back.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_fs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_map.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_msg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_print.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_refresh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_save.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/btn_search.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dnload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/base.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/cd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/empty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/folder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/folderopen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/globe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/imgfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/join.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/joinbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/minusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/musicfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/nolines_minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/nolines_plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/openfoldericon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/page.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/plusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/question.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/dtree/trash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/fg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/fg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/fk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/fk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/formback_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/formback_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/formback_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/icn_ok.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/icn_time.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/ico_no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/ico_yes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/icon_card.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/kb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/kb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/lines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/lines20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/lines24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/login1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/login1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/loginBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/login_cancel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/login_enter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/logos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/main_header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/main_headerL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/menu_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/menu_bg1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/menu_bgT.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/menu_bgT1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/menu_foot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/menu_foot1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/menu_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/menu_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/menu_top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/next.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/opt_current.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/opt_normal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/pies24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/pies48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/pies64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/plus1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/plus2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/plus3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/popmenu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/prev.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/prev_end.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/prev_top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/release.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/sbtn2_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/sbtn_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/submenu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/temp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/temp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/th_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/timgFS2BAVB3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_bg (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_btn1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_btn2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_btn3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_btn6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_right_a.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_right_b1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_right_b2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_right_b3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_right_b4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_right_b5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/top_right_b6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/view.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/xl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/xl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/xt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/xt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/zfblogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/images/复件 menu_foot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/ButonMouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/DateTimeCalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/MenuDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/ajaxfileupload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/calendar-setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-bg_flat_55_999999_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-bg_flat_75_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-bg_glass_45_0078ae_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-bg_glass_55_f8da4e_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-bg_glass_75_79c9ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-bg_gloss-wave_45_e14f1c_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-bg_gloss-wave_50_6eac2c_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-bg_gloss-wave_75_2191c0_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-icons_0078ae_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-icons_056b93_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-icons_d8e7f3_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-icons_e0fdff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-icons_f5e175_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-icons_f7a50d_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/images/ui-icons_fcd113_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/jquery-1.3.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/jquery-ui-1.7.3.custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/ui.datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/date/zn_datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/dtree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/itemAcc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/jquery.ui.core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/jquery.ui.datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/lang/calendar-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/lang/calendar-zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/prototype-1.6.0.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/sortTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/sysCatLog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/js/waitMsg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/WebContent/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/admin/svlt/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/admin/svlt/CkSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/admin/svlt/Del.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/admin/svlt/GetZdByTid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/admin/svlt/Init.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/admin/svlt/UpdSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/been/Cusinfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/been/Dpiao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/been/Piao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/been/Traininfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/been/Userinfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/been/Xianlu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/been/Zhandian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/svlt/ChangePwd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/svlt/CusCkSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/svlt/DpListSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/svlt/DpSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/svlt/HandlePiaoSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/svlt/InitLoginSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/svlt/LoginSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/svlt/LogoutSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/svlt/RegSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/utils/DbConn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/utils/FindService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/build/classes/dp/utils/HandleProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Scripts/jquery-1.4.1-vsdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Scripts/jquery-1.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Scripts/jquery-1.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Scripts/jquery.base64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Scripts/jquery.blockUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Scripts/ui/jquery.ui.core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Scripts/ui/jquery.ui.datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/Append.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/Append_1_d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/Brows.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/Edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/Edit_1_d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/Find.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/Find_1_d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/ui/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/ui/images/ui-icons_217bc0_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/ui/images/ui-icons_d8e7f3_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/ui/jquery.ui.core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/ui/jquery.ui.datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/Styles/ui/jquery.ui.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/commons-beanutils-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/commons-collections.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/commons-io-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/commons-lang.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/ezmorph.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/json-lib-2.2.2-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/mysql-connector-java-5.1.17-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/initxianlu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/mdpiao.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/mgadmin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/mgcusinfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/mgpiao.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/mgtraininfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/mgxianlu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/mgzhandian.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/admin/mtflag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/changePwd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/CoolBlue/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/CoolBlue/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/CoolBlue/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/CoolBlue/TBHandle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/CoolBlue/ToolbarBg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/CoolBlue/ToolbarLeft.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/CoolBlue/ToolbarRight.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/Office/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/Office/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/Office/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/Office3D/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/Office3D/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/Office3D/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/blue/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/blue/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/blue/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/dtree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/green/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/green/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/green/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/jquery.ui.core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/jquery.ui.datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/jquery.ui.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/light/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/light/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/light/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/mx/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/mx/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/mx/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/mytable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/red/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/red/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/red/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/reg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/topa.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/yellow/Editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/yellow/EditorArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/css/yellow/MenuArea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/customer/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/-.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/-3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/ADD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/BROWSE.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/CHART.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/Chart01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/Chart02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/DEFAULT.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/DIARY.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/DOWNLOAD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/E.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/EDIT.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/EMAIL.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/FILE.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/FORMADD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/FORMEDIT.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/FORMQUERY.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/IE (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/IE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/IE3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/MAP.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/MENU.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/NOTICE.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/OTHER.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/P.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/PASSWORD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/PDF.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/PICTURE.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/PLAN.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/QUERY.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/RIGHTS.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/SECTOR.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/TXT.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/USER.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/W.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/ZIP.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/accept.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/back_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/back_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/back_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/bar2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/bd-1set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_back.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_fs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_map.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_msg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_print.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_refresh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_save.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/btn_search.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dnload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/base.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/cd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/empty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/folder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/folderopen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/globe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/imgfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/join.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/joinbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/minusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/musicfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/nolines_minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/nolines_plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/openfoldericon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/page.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/plusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/question.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/dtree/trash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/fg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/fg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/fk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/fk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/formback_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/formback_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/formback_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/icn_ok.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/icn_time.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/ico_no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/ico_yes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/icon_card.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/kb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/kb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/lines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/lines20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/lines24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/login1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/login1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/loginBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/login_cancel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/login_enter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/logos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/main_header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/main_headerL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/menu_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/menu_bg1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/menu_bgT.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/menu_bgT1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/menu_foot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/menu_foot1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/menu_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/menu_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/menu_top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/next.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/opt_current.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/opt_normal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/pies24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/pies48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/pies64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/plus1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/plus2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/plus3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/popmenu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/prev.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/prev_end.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/prev_top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/release.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/sbtn2_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/sbtn_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/submenu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/temp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/temp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/th_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/timgFS2BAVB3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_bg (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_btn1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_btn2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_btn3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_btn6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_right_a.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_right_b1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_right_b2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_right_b3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_right_b4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_right_b5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/top_right_b6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/view.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/xl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/xl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/xt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/xt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/zfblogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/images/复件 menu_foot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/ButonMouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/DateTimeCalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/MenuDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/ajaxfileupload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/calendar-setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-bg_flat_55_999999_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-bg_flat_75_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-bg_glass_45_0078ae_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-bg_glass_55_f8da4e_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-bg_glass_75_79c9ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-bg_gloss-wave_45_e14f1c_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-bg_gloss-wave_50_6eac2c_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-bg_gloss-wave_75_2191c0_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-icons_0078ae_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-icons_056b93_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-icons_d8e7f3_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-icons_e0fdff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-icons_f5e175_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-icons_f7a50d_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/images/ui-icons_fcd113_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/jquery-1.3.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/jquery-ui-1.7.3.custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/ui.datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/date/zn_datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/dtree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/itemAcc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/jquery.ui.core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/jquery.ui.datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/lang/calendar-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/lang/calendar-zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/prototype-1.6.0.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/sortTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/sysCatLog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/js/waitMsg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/WebContent/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/admin/svlt/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/admin/svlt/CkSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/admin/svlt/Del.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/admin/svlt/GetZdByTid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/admin/svlt/Init.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/admin/svlt/UpdSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/been/Cusinfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/been/Dpiao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/been/Piao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/been/Traininfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/been/Userinfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/been/Xianlu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/been/Zhandian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/svlt/ChangePwd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/svlt/CusCkSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/svlt/DpListSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/svlt/DpSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/svlt/HandlePiaoSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/svlt/InitLoginSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/svlt/LoginSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/svlt/LogoutSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/svlt/RegSvlt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/utils/DbConn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/utils/FindService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/build/classes/dp/utils/HandleProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/admin/svlt/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/admin/svlt/CkSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/admin/svlt/Del.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/admin/svlt/GetZdByTid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/admin/svlt/Init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/admin/svlt/UpdSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/been/Cusinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/been/Dpiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/been/Piao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/been/Traininfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/been/Userinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/been/Xianlu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/been/Zhandian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/svlt/ChangePwd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/svlt/CusCkSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/svlt/DpListSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/svlt/DpSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/svlt/HandlePiaoSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/svlt/InitLoginSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/svlt/LoginSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/svlt/LogoutSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/svlt/RegSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/utils/DbConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/utils/FindService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/dingpiaoxitong/src/dp/utils/HandleProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/huochedingpiao.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/admin/svlt/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/admin/svlt/CkSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/admin/svlt/Del.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/admin/svlt/GetZdByTid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/admin/svlt/Init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/admin/svlt/UpdSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/been/Cusinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/been/Dpiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/been/Piao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/been/Traininfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/been/Userinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/been/Xianlu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/been/Zhandian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/svlt/ChangePwd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/svlt/CusCkSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/svlt/DpListSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/svlt/DpSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/svlt/HandlePiaoSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/svlt/InitLoginSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/svlt/LoginSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/svlt/LogoutSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/svlt/RegSvlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/utils/DbConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/utils/FindService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/src/dp/utils/HandleProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/数据库实践课程报告.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/网上订票系统.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../huochepiaoxitong/网上订票系统.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/authorIdPaperId.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/classifier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/confusion_matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/feature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/feature/test.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/feature/test.feature.arff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/feature/train.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/feature/train.feature.arff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/model/kdd.model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/model_trainer/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/model_trainer/coauthor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/model_trainer/data_loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/model_trainer/evalution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/model_trainer/feature_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/model_trainer/make_feature_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/model_trainer/stringDistance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/model_trainer/trainer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/predict/test.predict" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/predict/test.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KDD_Benchmark/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kdd_cup_2013-master(1)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujuwajue/kddtest/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train/data_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vgg_blstm_ctc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train/datasets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/batch_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#197#207#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graphics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/predict.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BankCardOCR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankCardOCR" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BankCardOCR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BankCardOCR-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\ASUS\Desktop\newtest\py3\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60d0ee86-bc85-447d-8ebf-e7a7c33f073e" name="Default Changelist" comment="" />
+      <created>1561077464894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561077464894</updated>
+      <workItem from="1561077467854" duration="983000" />
+      <workItem from="1561078767749" duration="152000" />
+      <workItem from="1561079179405" duration="1614000" />
+      <workItem from="1561081246708" duration="598000" />
+      <workItem from="1561082000447" duration="1115000" />
+      <workItem from="1565658994849" duration="581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5043000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26742628" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BankCardOCR_master$app.coverage" NAME="app Coverage Results" MODIFIED="1561079465424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BankCardOCR_master$demo.coverage" NAME="demo Coverage Results" MODIFIED="1561083325387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///anaconda3/lib/python3.7/site-packages/keras/__init__.py" />
+    <entry file="file:///anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py" />
+    <entry file="file://$PROJECT_DIR$/test_images/2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/3.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/6.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/9.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/bank_card.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/close_.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/icon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/icon1.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/icon2.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/icon3.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/icon4.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/locate.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/open.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/card_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/card_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/card_5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/card_9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/card_8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/card_7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/card_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/card_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_results/card_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/train_img/0_00h_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/vgg_blstm_ctc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/data_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vgg_blstm_ctc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batch_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#197#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
